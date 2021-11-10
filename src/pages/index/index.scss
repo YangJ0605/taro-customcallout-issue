@@ -1,0 +1,13 @@
+map {
+  position: absolute;
+  z-index: 9;
+}
+.btn {
+  position: absolute;
+  z-index: 99;
+  background-color: green;
+  width: 600px;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
